@@ -1,6 +1,6 @@
 Installation:
 
-    git clone wherever-this-lives
+    git clone git://github.com/josephhallett/dotvim.git 
 
 Create symlinks:
 
